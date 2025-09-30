@@ -6,3 +6,4 @@ streamlit_keplergl
 numerize>=0.12
 pandas>=1.5.3
 geopandas>=1.0.1
+pyarrow==11.0.0 --only-binary :all:
