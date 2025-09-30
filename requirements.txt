@@ -3,10 +3,11 @@ plotly>=5.13.0
 matplotlib>=3.7.1
 pillow>=11.3.0
 streamlit_keplergl
-git+https://github.com/omjadas/numerize.git@master#egg=numerize
+https://github.com/omjadas/numerize/archive/refs/heads/master.zip
 pandas>=1.5.3
 geopandas>=1.0.1
 pyarrow==11.0.0 --only-binary :all:
+
 
 
 
