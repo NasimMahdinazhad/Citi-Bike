@@ -6,7 +6,8 @@ streamlit_keplergl
 numerize @ git+https://github.com/davidsa03/numerize.git@master
 pandas>=1.5.3
 geopandas>=1.0.1
-pyarrow
+pyarrow>=9.0.0,<12.0.0
+
 
 
 
