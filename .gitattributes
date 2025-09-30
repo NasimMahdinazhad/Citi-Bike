@@ -3,3 +3,4 @@ your_dataset.csv filter=lfs diff=lfs merge=lfs -text
 top20.csv filter=lfs diff=lfs merge=lfs -text
 aggregated_data_line_chart.csv filter=lfs diff=lfs merge=lfs -text
 df_final_locations_for_map.csv filter=lfs diff=lfs merge=lfs -text
+Bike_Trips_NYC.html filter=lfs diff=lfs merge=lfs -text
